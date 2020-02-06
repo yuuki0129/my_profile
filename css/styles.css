@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+#id {
+    float: left;
+}
+ul {
+    list-style: none;
+}
+.profile {
+    padding-left: 10px;
+}
+.all {
+    display: flex;
+    flex-direction: reverse;
+    justify-content: center;
+}
+h4 {
+    margin: 0 0 50px 110px;
+}
+.left {
+    margin-right: 20px;
+}
+.new p {
+    margin-left: 70px;
+    font-weight: bold;
+}
