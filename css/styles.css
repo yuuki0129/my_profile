@@ -15,6 +15,7 @@ h3 {
   font-size: 60px;
   margin: 0 0 20px 0;
   color: red;
+  background: linear-gradient(transparent 50%, aqua 100%);
 }
  
 .container {
